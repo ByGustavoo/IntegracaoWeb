@@ -1,0 +1,26 @@
+$cor-branco: #FBFBFA;
+
+* {
+  margin: 0;
+  height: 100%; 
+  background-color: $cor-branco;
+}
+
+.container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  margin: 0;
+}
+
+.container_login {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 67rem;
+  height: 42.1rem;
+  background-color: #FFFFFF;
+  border-radius: 1rem;
+  box-shadow: -0.5rem 0.5rem 1rem 0.25rem rgba(0, 0, 0, 0.1);
+}
