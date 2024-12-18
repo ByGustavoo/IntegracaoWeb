@@ -13,6 +13,8 @@
 
 * VS Code
 
+* npm 10.9.2
+
 * Angular 19.0.5
 
 * TypeScript 5.6.2
