@@ -25,7 +25,7 @@
   <br> 
 
 
-## Servidor de Desenvolvimento
+## 🛠 Servidor de Desenvolvimento
 
 Para iniciar o servidor de desenvolvimento local, execute:
 
@@ -37,7 +37,7 @@ Uma vez que o servidor esteja em execução, abra o seu navegador e acesse `http
 
 <br> 
 
-## Compilação
+## 🗂 Compilação
 
 Para compilar o projeto, execute:
 
@@ -49,7 +49,7 @@ Isso irá compilar o seu projeto e armazenar os arquivos gerados no diretório `
 
 <br> 
 
-## Executando os Testes Unitários
+## 🔍 Executando os Testes Unitários
 
 Para executar os testes unitários utilizando o [Karma](https://karma-runner.github.io), use o seguinte comando:
 
@@ -59,7 +59,7 @@ ng test
 
 <br> 
 
-## Executando os Testes e2e
+## 🔍 Executando os Testes e2e
 
 Para executar os testes de ponta a ponta (e2e), execute:
 
